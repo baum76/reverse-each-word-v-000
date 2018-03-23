@@ -5,5 +5,3 @@ def reverse_each_word(string = "Hello there, and how are you?")
     return reverse_each_word.join(" ")
   end
 end
-
-
