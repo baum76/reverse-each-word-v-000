@@ -1,3 +1,3 @@
 def reverse_each_word(string = "Hello there, and how are you?")
-  reverse_each_word.map(&:reverse!)
+  string.map(&:reverse!)
 end
